@@ -6,7 +6,7 @@ import { faXTwitter } from "@fortawesome/free-brands-svg-icons/faXTwitter"
 
 function Footer() {
   return (
-    <div className="bg-black text-white lg:px-12 px-1 py-4">
+    <div className="bg-black text-white lg:px-12 px-1 py-6">
       <div className="lg:flex justify-between">
         <div className="lg:w-96">
           <h2 className="my-second text-orange-500 text-2xl font-bold"><FontAwesomeIcon icon={faChalkboard} className="mx-1"/>TchadCommerce.com</h2>
@@ -33,7 +33,7 @@ function Footer() {
         </div>
       
     </div>
-    <div className="flex items-center my-3">
+    <div className="flex items-center my-6">
       <h2 className="text-2xl font-medium">Suivez nous sur:</h2>
      <div className="mt-3">
      <FontAwesomeIcon icon={faFacebook}  className="mx-3 text-xl font-bold"/>

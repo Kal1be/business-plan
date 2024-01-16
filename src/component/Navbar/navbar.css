@@ -76,14 +76,14 @@
 
   @media(max-width:766px){
     .back-image{
-      height: 65vh;
+      height: 55vh;
       background-size: cover;
       background-position: center;
       width: 100%;
   }
   .back-first{
       background:linear-gradient(rgb(0, 0, 0),rgba(0, 0, 0, 0.239));
-      height: 65vh;
+      height: 55vh;
       width: 100%;
   }
     #product-top{

@@ -8,21 +8,21 @@ function Second() {
       </div>
       <div className="px-4" >
        <div className='lg:flex  my-3 justify-between lg:w-[110%]'>
-       <p id='ele'><span className='lg:text-5xl text-5xl my-2 font-medium text-orange-500'>100M+</span><br />
+       <p id='ele'><span className='lg:text-5xl text-3xl my-2 font-bold lg:font-medium text-orange-500'>100M+</span><br />
         <span id="prod">
             products
         </span></p>
-       <p  id='ele'><span className='lg:text-5xl text-5xl my-2  font-medium text-orange-500'>1000k+</span><br />
+       <p  id='ele'><span className='lg:text-5xl text-3xl my-2  font-bold lg:font-medium text-orange-500'>1000k+</span><br />
         <span  id="prod">
            Suppliers
         </span></p>
        </div>
       <div className='lg:flex my-3 lg:w-[98%] justify-between'>
-      <p  id='ele'><span className='lg:text-5xl text-5xl my-2  font-medium text-orange-500'>5900</span><br />
+      <p  id='ele'><span className='lg:text-5xl text-3xl my-2  font-bold lg:font-medium text-orange-500'>5900</span><br />
         <span  id="prod">
            products & categories
         </span></p>
-       <p   id='ele'><span className='lg:text-5xl text-5xl my-2  font-medium text-orange-500'>200+</span><br />
+       <p   id='ele'><span className='lg:text-5xl text-3xl my-2  font-bold lg:font-medium text-orange-500'>200+</span><br />
         <span id="prod">
            countrie and <br />
             region

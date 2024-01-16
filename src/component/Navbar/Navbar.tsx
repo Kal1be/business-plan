@@ -53,7 +53,8 @@ return()=>{
             <li><FontAwesomeIcon icon={faSignIn} className="mx-1"/>Se Connecter</li>
             <li className="bg-orange-500 px-10 py-2 rounded-full">S'enregistrer</li>
         </ul>
-      </div>
+        <FontAwesomeIcon icon={faBars} className="text-2xl me-1 bg-orange-500 px-2 py-1"/>
+              </div>
     </div>
     {/* _________++++++++++++++++++++++++++ the element of behavior of the navbar black _+++++++++++++++++______________+++++++++++ */}
    <div className="flex justify-between items-center mt-3" id="product-top">
@@ -72,7 +73,7 @@ return()=>{
 {/* _______++++++++++++++++++++ the start of the element of the body part _____________--+++++++++++++++++++++ */}
    <div className="lg:mx-6  my-2">
 <h3 className="lg:mt-24 mt-24 font-sm lg:text-xl "><FontAwesomeIcon icon={faStore} className="mx-1"/>Apprendre a propos de <span className="">TchadCommerce.com</span></h3>
-    <h2 className="lg:text-6xl lg:my-4 my-2 lg:w-[70%] text-3xl" id="my-text">TchadCommerce,la veridique platforme commerciale en ligne,la vente est notre priorite</h2>
+    <h2 className="lg:text-6xl lg:my-4 my-2 lg:w-[70%] text-2xl" id="my-text">TchadCommerce,la veridique platforme commerciale en ligne,la vente est notre priorite</h2>
    </div>
    <div className="mx-6 mt-6 lg:w-[60%] border bg-white flex items-center justify-between  rounded-full py-1 px-2" id={search?"fixe":"search"}>
     <input type="text" className="input w-[80%] text-black" placeholder="find your product here ?" />
@@ -106,6 +107,7 @@ whileInView={{opacity:1,scale:1}}
             <li><FontAwesomeIcon icon={faSignIn} className="mx-1"/>Se Connecter</li>
             <li className="bg-orange-500 px-10 py-2 rounded-full text-white">S'enregistrer</li>
         </ul>
+        <FontAwesomeIcon icon={faBars} className="text-2xl me-1 text-white bg-orange-500 px-2 py-1"/>
     </div>
   </div>
 </motion.div>

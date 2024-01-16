@@ -17,9 +17,9 @@ function Home() {
       <First/>
       <Second/>
     <div>
-   <div className='lg:px-20 px-4 py-4'> <h3 className="text-5xl font-bold text-orange-500">Notre logique du business</h3>
-         <p className="text-xl font-medium">pour ameliorer notre commerce TchadCommerce.com a mis en place des differents departement <br />
-          de commerce et des outils pour vos differents besoin <br />
+   <div className='lg:px-20 px-4 lg:py-4'> <h3 className="lg:text-5xl text-2xl font-bold text-orange-500">Notre logique du business</h3>
+         <p className="lg:text-xl text-sm font-medium">pour ameliorer notre commerce TchadCommerce.com a mis en place des differents departement 
+          de commerce et des outils pour vos differents besoin 
           vous pouvez choisir en cliquant sur recherche.</p> </div>
       <Carousele/>
       </div>

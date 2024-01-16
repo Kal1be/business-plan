@@ -5,11 +5,11 @@ import './product.css'
 const responsive={
 superLargeDesktop: {
     // the naming can be any, depends on you.
-    breakpoint: { max: 4000, min: 3000 },
+    breakpoint: { max: 4000, min: 5000 },
     items: 1
   },
   desktop: {
-    breakpoint: { max: 3000, min: 1024 },
+    breakpoint: { max: 5000, min: 1024 },
     items: 1
   },
   tablet: {
@@ -40,7 +40,7 @@ function Product() {
          ssr={true} // means to render carousel on server-side.
          infinite={true}
          autoPlay={ true}
-         autoPlaySpeed={3000}
+         autoPlaySpeed={5000}
          keyBoardControl={true}
          customTransition="all .5"
          transitionDuration={500}
@@ -50,17 +50,11 @@ function Product() {
          dotListClass="custom-dot-list-style"
          itemClass="carousel-item-padding-40-px">
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/canaper10.jpeg" alt="" className='w-full'/>
+         src="/business-plan/canaper10.jpeg" alt="" className='w-full'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/canaper11.jpg" alt="" className='w-full'/>
+         src="/business-plan/canaper11.jpg" alt="" className='w-full'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/canaper12.jpeg" alt="" className='w-full' />
+         src="/business-plan/canaper12.jpeg" alt="" className='w-full' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
@@ -85,7 +79,7 @@ function Product() {
          ssr={true} // means to render carousel on server-side.
          infinite={true}
          autoPlay={ true}
-         autoPlaySpeed={3000}
+         autoPlaySpeed={5000}
          keyBoardControl={true}
          customTransition="all .5"
          transitionDuration={500}
@@ -95,17 +89,11 @@ function Product() {
          dotListClass="custom-dot-list-style"
          itemClass="carousel-item-padding-40-px">
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/Gino-Tomato-1.webp" alt="" className='w-full h-[40vh]'/>
+         src="/business-plan/Gino-Tomato-1.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/Gino-Tomato-2.webp" alt="" className='w-full h-[40vh]'/>
+         src="/business-plan/Gino-Tomato-2.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/Gino-Tomato-3.jpeg" alt="" className='w-full h-[40vh]' />
+         src="/business-plan/Gino-Tomato-3.jpeg" alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
@@ -130,7 +118,7 @@ function Product() {
          ssr={true} // means to render carousel on server-side.
          infinite={true}
          autoPlay={ true}
-         autoPlaySpeed={3000}
+         autoPlaySpeed={5000}
          keyBoardControl={true}
          customTransition="all .5"
          transitionDuration={2000}
@@ -140,17 +128,11 @@ function Product() {
          dotListClass="custom-dot-list-style"
          itemClass="carousel-item-padding-40-px">
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}}  src="/business-plan/vejaro-green1.jpg" alt="" className='w-full h-[40vh]'/>
+         src="/business-plan/vejaro-green1.jpg" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}}  src="/business-plan/vejaro2.jpg" alt="" className='w-full h-[40vh]'/>
+         src="/business-plan/vejaro2.jpg" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/vejaro3.jpg"  alt="" className='w-full h-[40vh]' />
+        src="/business-plan/vejaro3.jpg"  alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
@@ -181,7 +163,7 @@ function Product() {
          ssr={true} // means to render carousel on server-side.
          infinite={true}
          autoPlay={ true}
-         autoPlaySpeed={3000}
+         autoPlaySpeed={5000}
          keyBoardControl={true}
          customTransition="all .5"
          transitionDuration={500}
@@ -191,17 +173,11 @@ function Product() {
          dotListClass="custom-dot-list-style"
          itemClass="carousel-item-padding-40-px">
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/magie-star1.webp" alt="" className='w-full h-[40vh]'/>
+        src="/business-plan/magie-star1.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/magie-star2.jpeg" alt="" className='w-full h-[40vh]'/>
+        src="/business-plan/magie-star2.jpeg" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/magie-star3.jpeg" alt="" className='w-full h-[40vh]' />
+        src="/business-plan/magie-star3.jpeg" alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
@@ -227,7 +203,7 @@ function Product() {
          ssr={true} // means to render carousel on server-side.
          infinite={true}
          autoPlay={ true}
-         autoPlaySpeed={3000}
+         autoPlaySpeed={5000}
          keyBoardControl={true}
          customTransition="all .5"
          transitionDuration={500}
@@ -237,17 +213,11 @@ function Product() {
          dotListClass="custom-dot-list-style"
          itemClass="carousel-item-padding-40-px">
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/white-black-jordan-air2.webp" alt="" className='w-full h-[40vh]'/>
+       src="/business-plan/white-black-jordan-air2.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/black1.jpeg" alt="" className='w-full h-[40vh]'/>
+       src="/business-plan/black1.jpeg" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/black2.jpg" alt="" className='w-full h-[40vh]' />
+       src="/business-plan/black2.jpg" alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
@@ -274,7 +244,7 @@ function Product() {
          ssr={true} // means to render carousel on server-side.
          infinite={true}
          autoPlay={ true}
-         autoPlaySpeed={3000}
+         autoPlaySpeed={5000}
          keyBoardControl={true}
          customTransition="all .5"
          transitionDuration={500}
@@ -284,17 +254,11 @@ function Product() {
          dotListClass="custom-dot-list-style"
          itemClass="carousel-item-padding-40-px">
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}}  src="/business-plan/golden-macaroni1.webp" alt="" className='w-full h-[40vh]'/>
+         src="/business-plan/golden-macaroni1.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}}  src="/business-plan/macaroni8.webp" alt="" className='w-full h-[40vh]'/>
+         src="/business-plan/macaroni8.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
-        initial={{opacity:0,scale:.9}}
-        transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/business-plan/macaroni5.webp"  alt="" className='w-full h-[40vh]' />
+        src="/business-plan/macaroni5.webp"  alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
