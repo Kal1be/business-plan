@@ -1,0 +1,17 @@
+#ele{
+    border-left: 4px solid gainsboro;
+    margin: 10px 3px;
+    padding: 0 10px;
+}
+#prod{
+    font-weight: 500;
+    color: rgb(163, 92, 0);
+}
+
+@media(max-width:766px){
+    #ele{
+        border-left: 4px solid gainsboro;
+        margin: 20px 0;
+        padding: 0 10px;
+    } 
+}

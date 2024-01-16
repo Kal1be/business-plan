@@ -1,0 +1,19 @@
+#carousel-btn button{
+     background-color: rgba(170, 162, 162, 0.222) !important;
+     /* width: 50% !important; */
+     padding: 20px !important;
+     width: 70px ;
+     margin: 0 -52px;
+     z-index: 1;
+}
+
+@media(max-width:756px){
+     #carousel-btn button{
+          background-color: rgba(170, 162, 162, 0.222) !important;
+          /* width: 50% !important; */
+          padding: 20px !important;
+          width: 70px ;
+          margin: 0 -28px;
+          z-index: 1;
+     }
+}

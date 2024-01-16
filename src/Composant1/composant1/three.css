@@ -1,0 +1,10 @@
+#my-span:hover{
+    border:1px solid orangered;
+}
+#my-span{
+    font-size: 18px;
+}
+#my-span svg{
+    font-size: 30px !important;
+    color: rgb(61, 60, 60);
+}
