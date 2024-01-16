@@ -43,7 +43,7 @@ return()=>{
 
   return (
    <div className="back-image">
-    <div className="back-first text-white  p-3">
+    <div className="back-first text-white lg:p-3 py-3 px-3">
     <div className="text-white ">
       <div className="flex justify-between lg:mx-6 items-center font-medium">
         <h2><span className="my-second lg:text-4xl text-2xl font-extrabold">TchadCommerce</span><span className="text-xl ">.com</span></h2>
@@ -53,7 +53,7 @@ return()=>{
             <li><FontAwesomeIcon icon={faSignIn} className="mx-1"/>Se Connecter</li>
             <li className="bg-orange-500 px-10 py-2 rounded-full">S'enregistrer</li>
         </ul>
-        <FontAwesomeIcon icon={faBars} className="text-2xl me-1 bg-orange-500 px-2 py-1"/>
+        <FontAwesomeIcon icon={faBars} className="text-2xl me-1 bg-orange-500 px-2 py-1" id="fabars"/>
               </div>
     </div>
     {/* _________++++++++++++++++++++++++++ the element of behavior of the navbar black _+++++++++++++++++______________+++++++++++ */}
@@ -88,8 +88,8 @@ initial={{opacity:0}}
 // transition={{duration:1}}
 whileInView={{opacity:1,scale:1}}
  id={navbar?"nav":"header"}>
-<div className=" bg-white lg:p-3 p-2 shadow-xl absolute top-0 w-screen z-50">
-    <div className="flex justify-between lg:mx-2 mx-2 items-center font-medium">
+<div className=" bg-white lg:p-3 py-3 px-3  shadow-xl absolute top-0 w-screen z-50">
+    <div className="flex justify-between lg:mx-2  items-center font-medium">
       <h2 className="text-orange-500"><span className="my-seconde lg:text-4xl text-2xl font-extrabold">TchadCommerce</span><span className="text-xl ">.com</span></h2>
       {/*___________++++++++++++++++++++++++ the shrink of the search bar when he reach 150px_+++++++++++++++++++++++++++++++++++ */}
       <motion.div
@@ -107,7 +107,7 @@ whileInView={{opacity:1,scale:1}}
             <li><FontAwesomeIcon icon={faSignIn} className="mx-1"/>Se Connecter</li>
             <li className="bg-orange-500 px-10 py-2 rounded-full text-white">S'enregistrer</li>
         </ul>
-        <FontAwesomeIcon icon={faBars} className="text-2xl me-1 text-white bg-orange-500 px-2 py-1"/>
+        <FontAwesomeIcon icon={faBars} className="text-2xl me-1 text-white bg-orange-500 px-2 py-1" id="fabars"/>
     </div>
   </div>
 </motion.div>

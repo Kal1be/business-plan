@@ -35,7 +35,7 @@ function Footer() {
     </div>
     <div className="flex items-center my-6">
       <h2 className="text-2xl font-medium">Suivez nous sur:</h2>
-     <div className="mt-3">
+     <div className="mt-2">
      <FontAwesomeIcon icon={faFacebook}  className="mx-3 text-xl font-bold"/>
       <FontAwesomeIcon icon={faXTwitter} className="mx-3 text-xl font-bold"/>
       <FontAwesomeIcon icon={faWhatsapp} className="mx-3 text-xl font-bold"/>
