@@ -52,29 +52,29 @@ function Product() {
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/canaper10.jpeg" alt="" className='w-full'/>
+        whileInView={{opacity:1,scale:1}} src="/business-plan/canaper10.jpeg" alt="" className='w-full'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/canaper11.jpg" alt="" className='w-full'/>
+        whileInView={{opacity:1,scale:1}} src="/business-plan/canaper11.jpg" alt="" className='w-full'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/canaper12.jpeg" alt="" className='w-full' />
+        whileInView={{opacity:1,scale:1}} src="/business-plan/canaper12.jpeg" alt="" className='w-full' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/canaper13.jpeg" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/canaper13.jpeg" alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/canaper15.jpeg" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/canaper15.jpeg" alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/canaper16.jpeg" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/canaper16.jpeg" alt="" className='lg:w-32 w-28'/>
             </div>
             </div><div className='lg:w-[400px] w-screen  border shadow-xl my-3 '>
         <Carousel responsive={responsive}
@@ -97,29 +97,29 @@ function Product() {
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/Gino-Tomato-1.webp" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}} src="/business-plan/Gino-Tomato-1.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/Gino-Tomato-2.webp" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}} src="/business-plan/Gino-Tomato-2.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/Gino-Tomato-3.jpeg" alt="" className='w-full h-[40vh]' />
+        whileInView={{opacity:1,scale:1}} src="/business-plan/Gino-Tomato-3.jpeg" alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/Gino-Tomato-4.webp" alt="" className='lg:w-32 w-28 h-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/Gino-Tomato-4.webp" alt="" className='lg:w-32 w-28 h-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/Gino-Tomato-3.jpeg" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/Gino-Tomato-3.jpeg" alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/Gino-Tomato-1.webp" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/Gino-Tomato-1.webp" alt="" className='lg:w-32 w-28'/>
             </div>
             </div><div className='lg:w-[400px] w-screen  border shadow-xl my-3 '>
         <Carousel responsive={responsive}
@@ -142,29 +142,29 @@ function Product() {
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}}  src="/vejaro-green1.jpg" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}}  src="/business-plan/vejaro-green1.jpg" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}}  src="/vejaro2.jpg" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}}  src="/business-plan/vejaro2.jpg" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/vejaro3.jpg"  alt="" className='w-full h-[40vh]' />
+        whileInView={{opacity:1,scale:1}} src="/business-plan/vejaro3.jpg"  alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/vejaro-green5.jpg" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/vejaro-green5.jpg" alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/vejaro-green2.jpg"  alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/vejaro-green2.jpg"  alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/vejaro-green3.jpg" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/vejaro-green3.jpg" alt="" className='lg:w-32 w-28'/>
             </div>
             </div>
         </div>
@@ -193,29 +193,29 @@ function Product() {
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/magie-star1.webp" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}} src="/business-plan/magie-star1.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/magie-star2.jpeg" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}} src="/business-plan/magie-star2.jpeg" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/magie-star3.jpeg" alt="" className='w-full h-[40vh]' />
+        whileInView={{opacity:1,scale:1}} src="/business-plan/magie-star3.jpeg" alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/magie-star1.webp" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/magie-star1.webp" alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/magie-star3.jpeg" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/magie-star3.jpeg" alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/magie-star4.webp" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/magie-star4.webp" alt="" className='lg:w-32 w-28'/>
             </div>
             </div>
             <div className='lg:w-[400px] w-screen  border shadow-xl my-3 '>
@@ -239,29 +239,29 @@ function Product() {
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/white-black-jordan-air2.webp" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}} src="/business-plan/white-black-jordan-air2.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/black1.jpeg" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}} src="/business-plan/black1.jpeg" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/black2.jpg" alt="" className='w-full h-[40vh]' />
+        whileInView={{opacity:1,scale:1}} src="/business-plan/black2.jpg" alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/white-black-jordan-air1.jpg" alt="" className='lg:w-32 w-28 h-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/white-black-jordan-air1.jpg" alt="" className='lg:w-32 w-28 h-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/white-black-jordan-air4.webp" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/white-black-jordan-air4.webp" alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/white-black-jordan-air3.webp" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/white-black-jordan-air3.webp" alt="" className='lg:w-32 w-28'/>
             </div>
             </div>
 
@@ -286,29 +286,29 @@ function Product() {
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}}  src="/golden-macaroni1.webp" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}}  src="/business-plan/golden-macaroni1.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}}  src="/macaroni8.webp" alt="" className='w-full h-[40vh]'/>
+        whileInView={{opacity:1,scale:1}}  src="/business-plan/macaroni8.webp" alt="" className='w-full h-[40vh]'/>
         <motion.img
         initial={{opacity:0,scale:.9}}
         transition={{duration:.6}}
-        whileInView={{opacity:1,scale:1}} src="/macaroni5.webp"  alt="" className='w-full h-[40vh]' />
+        whileInView={{opacity:1,scale:1}} src="/business-plan/macaroni5.webp"  alt="" className='w-full h-[40vh]' />
            </Carousel>
             <div className='flex justify-between w-full'>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/golden-macaroni3.jpg" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/golden-macaroni3.jpg" alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/macaroni6.jpeg"  alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/macaroni6.jpeg"  alt="" className='lg:w-32 w-28'/>
                 <motion.img
                 initial={{opacity:0,scale:.9}}
                 transition={{duration:.6}}
-                whileInView={{opacity:1,scale:1}} src="/macaroni7.jpg" alt="" className='lg:w-32 w-28'/>
+                whileInView={{opacity:1,scale:1}} src="/business-plan/macaroni7.jpg" alt="" className='lg:w-32 w-28'/>
             </div>
             </div>
         </div>

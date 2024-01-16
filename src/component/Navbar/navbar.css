@@ -24,7 +24,7 @@
     outline: none;
 }
 .back-image{
-    background-image: url("./invest.webp");
+    background-image: url("/business-plan/invest.webp");
     height: 100vh;
     background-size: cover;
     width: 100%;
@@ -76,7 +76,6 @@
 
   @media(max-width:766px){
     .back-image{
-      background-image: url("./invest.webp");
       height: 65vh;
       background-size: cover;
       background-position: center;
